@@ -3,4 +3,4 @@
 <a href = "app.css">Click for CSS file</a>
 <br>
 
-<img src = 'Project.png'>
+<img src = 'Project.jpg'>
